@@ -19,12 +19,14 @@ div {
 }
 
 .box {
+  box-sizing: border-box;
   display: block;
   height: 100%;
   width: 35%;
   padding: 20px;
   border: solid darkblue;
   background-color: rgba(95, 158, 160, 0.33);
+  word-wrap: break-word;
 }
 
 img {
