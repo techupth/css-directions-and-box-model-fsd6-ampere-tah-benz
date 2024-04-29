@@ -1,1 +1,32 @@
-/* Start coding here */
+* {
+  margin: 0px;
+}
+
+div {
+  color: darkblue;
+}
+.header {
+  height: 5vh;
+  padding: 20px 20px 20px 50px;
+  background-color: cadetblue;
+}
+
+.content {
+  box-sizing: border-box;
+  height: 100%;
+  background-color: rgb(240, 255, 255);
+  padding: 30px 20px 10px 50px;
+}
+
+.box {
+  display: block;
+  height: 100%;
+  width: 35%;
+  padding: 20px;
+  border: solid darkblue;
+  background-color: rgba(95, 158, 160, 0.33);
+}
+
+img {
+  padding: 5% 0% 5% 0%;
+}
