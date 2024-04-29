@@ -1,1 +1,26 @@
-/* Start coding here */
+* {
+  box-sizing: border-box;
+}
+h1 {
+  background-color: gray;
+  padding: 30px;
+}
+.cafe-in-chiangmai {
+  box-sizing: border-box;
+  background-color: lightgray;
+  padding: 30px;
+  width: 600px;
+  height: 400px;
+  margin: 50px;
+  border: solid darkblue;
+}
+
+.best-location {
+  box-sizing: border-box;
+  background-color: lightgrey;
+  padding: 30px;
+  width: 600px;
+  height: 400px;
+  margin: 50px;
+  border: solid darkblue;
+}
